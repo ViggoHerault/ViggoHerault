@@ -1,2 +1,2 @@
-<h1 align="center">👋 Hello there, I'm Viggo Hérault</h1>
-<h2 align="justify">I'm currently in my 3rd year of video game creation studies and I'm very interested in programmation. I mainly use Unity and Unreal Engine for my projects. I have always liked to create artistic projects and especially games that entertain people and impress them with my work.</h2>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Viggo Hérault</h1>
+<p align="justify">I'm currently in my 3rd year of video game creation studies and I'm very interested in programmation. I mainly use Unity and Unreal Engine for my projects. I have always liked to create artistic projects and especially games that entertain people and impress them with my work.</p>
